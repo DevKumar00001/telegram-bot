@@ -19,3 +19,4 @@ jobs:
         with:
           project: uzinfocom-webhook
           entrypoint: mod.ts
+          
